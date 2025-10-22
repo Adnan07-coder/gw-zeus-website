@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GW ZEUS Gaming</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>GW ZEUS</h1>
+        <p>https://youtube.com/@maks_bros?si=pXQR_xM5G-2EERhB!</p>
+    </header>
+
+    <section class="videos">
+        <h2>Latest Videos</h2>
+        <p>https://youtu.be/7kZ0gHu5BRU?si=cBqZrk4JtLfQr4ur</p>
+        <!-- Example placeholder -->
+        <div class="video">
+            <iframe width="560" height="315" src="YOUR_YOUTUBE_EMBED_LINK" 
+            title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 GW ZEUS. All rights reserved.</p>
+    </footer>
+</body>
+</html>
